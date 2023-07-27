@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EditorConfigHeaderUniqueness" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="addQ3_1pinherit.department.*" />
+          <option value="parser" />
+          <option value="demoapp.views.HttpResponse" />
+          <option value="demopro.urls.django" />
+          <option value="demoapp.views.get_HttpResponse" />
+          <option value="firstapp.views.HttpReqsponse" />
+          <option value="firstapp.urls.django" />
+          <option value="demoproject.urls.django" />
+          <option value="firstproject.urls.django" />
+          <option value="firstproject.os" />
+          <option value="demoproject.urls.sitemap" />
+          <option value="todoapp.forms.*" />
+          <option value="accounts.models.django" />
+          <option value="head" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
